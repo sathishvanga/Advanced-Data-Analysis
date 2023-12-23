@@ -20,13 +20,13 @@
 
 ### 2. <a id='two'>Create a plot based on the Variation of the price range by the vehicle type?</a>
 -![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/742862ed-0f8b-4c26-8a62-1b751ff7475d)
-The price range varies based on the vehicle type, with SUVs having the highest price range, coupes coming in at the second highest, and Kleinwagens having the lowest price range.
+- The price range varies based on the vehicle type, with SUVs having the highest price range, coupes coming in at the second highest, and Kleinwagens having the lowest price range.
 
 
 
 ### 3. <a id='three'> Find out Total count of vehicles by type available on ebay for sale.As well as create a visualization for the client?</a>
 - ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/86bd52f2-e477-43c4-8260-1e9c2a3c8b51)
-The Limousine vehicle type has the highest count on eBay for sale, followed by Kleinwagen, and the lowest count is for "Andere" (Other) vehicle types. 
+- The Limousine vehicle type has the highest count on eBay for sale, followed by Kleinwagen, and the lowest count is for "Andere" (Other) vehicle types. 
 
 ### 4. <a id='four'> Is there any relationship between dollar_price and kilometer? (Explain with appropriate analysis)?</a>
 - ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/098b9e12-4887-4856-84e8-bc3c79ef66a9)
@@ -37,7 +37,8 @@ The Limousine vehicle type has the highest count on eBay for sale, followed by K
 
 
 ### 5. <a id='five'>Can you tell me No of Vehicles by Brand Available on ebay for sale with the help of visualization?</a>
-- ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/0835c398-6dbf-459a-a785-f48d80de32d1)
+- ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/8234a576-fc2f-4934-ac3a-9afc36d293d3)
+
 - **Volkswagen** has the highest sales among the available vehicles on eBay.
 
 
@@ -50,7 +51,7 @@ The Limousine vehicle type has the highest count on eBay for sale, followed by K
 
 ### 8.<a id='eight'> What is the Average price of vehicle by fuel type and gearbox type.Give a plot?</a>
 - ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/3659bf7d-558c-4f0a-b562-9642668fe382)
-
+- The average price of vehicles varies based on fuel type and gearbox type, with hybrid fuel type having the highest average price, followed by diesel, and the lowest being for vehicles with other fuel types.
 ### 9. <a id='nine'> What is the Average power of a vehicle by vehicle type and gearbox type.Give a plot?</a>
 -![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/f7341e62-bb0a-4aed-991b-8d3c713f7ed2)
 
