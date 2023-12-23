@@ -1,7 +1,4 @@
 # Advanced-Data-Analysis
-
-# IPL_Analysis_SQL
-
 ## Aim
 ### Project Overview:
 Clearly articulate the purpose and scope of your project. Explain why you chose to analyze used cars in Germany and what insights or value the project aims to provide.
@@ -49,9 +46,9 @@ Emphasize the reproducibility of your analysis. If others can easily replicate y
 
 # Questions
 1. [Can you tell me the Distribution of Vehicles based on Year of Registration with the help of a plot ?](#one)
-- [Which year has the most number of matches played?](#two)
-- [Maximum wins by Mumbai Indians in 2011](#three)
-- [What is the percentage of getting bat and field in feature 'toss_descision'?](#four)
+2. [Create a plot based on the Variation of the price range by the vehicle type?](#two)
+3. [Find out Total count of vehicles by type available on ebay for sale.As well as create a visualization for the client?](#three)
+4. [Is there any relationship between dollar_price and kilometer? (Explain with appropriate analysis)?](#four)
 - [In which years where taking batting second have won more number of matches?](#five)
 - [In 2019 which batsman scored highest number of runs by hitting 6's and 4's?](#six)
 - [Most number of wickets taken by a bowler](#seven)
@@ -70,16 +67,20 @@ Emphasize the reproducibility of your analysis. If others can easily replicate y
 - yearofRegistration is **`Left Skewed Distribution`** because more data points on the right side 
 
 
-### <a id='two'>Which year has the most number of matches played?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/a67b03b0-0a3a-4238-80ee-636ee9cafc31)
+### 2. <a id='two'>Create a plot based on the Variation of the price range by the vehicle type?</a>
+-![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/742862ed-0f8b-4c26-8a62-1b751ff7475d)
 
 
-### <a id='three'> Maximum wins by Mumbai Indians in 2011</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/510ce2ea-2ba1-4865-9b72-af33390f5899)
+
+### 3. <a id='three'> Find out Total count of vehicles by type available on ebay for sale.As well as create a visualization for the client?</a>
+- ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/86bd52f2-e477-43c4-8260-1e9c2a3c8b51)
+
+### 4. <a id='four'> Is there any relationship between dollar_price and kilometer? (Explain with appropriate analysis)?</a>
+- ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/098b9e12-4887-4856-84e8-bc3c79ef66a9)
+
+- ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/244ee4d2-60e1-4804-af1c-995316caefb5)
 
 
-### <a id='four'> What is the percentage of getting bat and field in feature 'toss_descision'?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/32237e1d-7d96-40f1-8b20-5f4f3bea92bf)
 
 
 ### <a id='five'> In which years where taking batting second have won more number of matches?</a>
