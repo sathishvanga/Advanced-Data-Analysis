@@ -79,8 +79,7 @@ Emphasize the reproducibility of your analysis. If others can easily replicate y
 - ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/098b9e12-4887-4856-84e8-bc3c79ef66a9)
 
 - ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/244ee4d2-60e1-4804-af1c-995316caefb5)
-
-
+- The relationship between price and kilometer is -0.4 i,e **Negative Weak Relationship**
 
 
 ### <a id='five'> In which years where taking batting second have won more number of matches?</a>
