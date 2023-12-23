@@ -48,7 +48,7 @@ Discuss how you ensured the quality of the dataset through data cleaning and pre
 Emphasize the reproducibility of your analysis. If others can easily replicate your results, it adds credibility to your findings.
 
 # Questions
-- [1.Can you tell me the Distribution of Vehicles based on Year of Registration with the help of a plot ?](#one)
+1. [Can you tell me the Distribution of Vehicles based on Year of Registration with the help of a plot ?](#one)
 - [Which year has the most number of matches played?](#two)
 - [Maximum wins by Mumbai Indians in 2011](#three)
 - [What is the percentage of getting bat and field in feature 'toss_descision'?](#four)
