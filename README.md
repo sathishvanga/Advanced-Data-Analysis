@@ -47,15 +47,8 @@ Discuss how you ensured the quality of the dataset through data cleaning and pre
 ### Reproducibility: 
 Emphasize the reproducibility of your analysis. If others can easily replicate your results, it adds credibility to your findings.
 
-## 🔍 Explore Key Insights:
-
-- Team performances across seasons 🏆
-- Player statistics: Runs, wickets, averages 🏏
-- Seasonal trends and winning patterns 📈
-- Home ground advantage exploration 🏠
-- Economy rates, strike rates, and player impact 📉
 # Questions
-- [Which City hosted most number of seasons according to the data?](#one)
+- [1.Can you tell me the Distribution of Vehicles based on Year of Registration with the help of a plot ?](#one)
 - [Which year has the most number of matches played?](#two)
 - [Maximum wins by Mumbai Indians in 2011](#three)
 - [What is the percentage of getting bat and field in feature 'toss_descision'?](#four)
