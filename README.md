@@ -54,7 +54,7 @@
 - The average price of vehicles varies based on fuel type and gearbox type, with hybrid fuel type having the highest average price, followed by diesel, and the lowest being for vehicles with other fuel types.
 ### 9. <a id='nine'> What is the Average power of a vehicle by vehicle type and gearbox type.Give a plot?</a>
 -![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/f7341e62-bb0a-4aed-991b-8d3c713f7ed2)
-
+- The average power of vehicles varies based on their type and gearbox type, with coupe vehicles having the highest average power, followed by SUVs, and kleinwagens having the lowest average power.
 ### 10. <a id='ten'>What is the Average price of a vehicle by brand as well as vehicle type.Use heatmap to explain this ?</a>
 - ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/b39c54fe-0490-4a40-8b23-9f16f6ecfc6d)
 
