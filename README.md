@@ -9,13 +9,8 @@
 6. [What is the Average price for vehicles based on the type of vehicle as well as on the type of gearbox.Explain me with both numerical and visualization analysis?](#six)
 7. [What is the marginal probability of private seller?](#seven)
 8. [What is the Average price of vehicle by fuel type and gearbox type.Give a plot?](#eight)
-9. What is the Average power of a vehicle by vehicle type and gearbox type.Give a plot?](#nine)
+9. [What is the Average power of a vehicle by vehicle type and gearbox type.Give a plot?](#nine)
 10. [What is the Average price of a vehicle by brand as well as vehicle type.Use heatmap to explain this ?](#ten)
-- [In 2017 when sunrisers hyderabad clashed against Royal Challengers Bangalore which team player won player of the match?](#eleven)
-- [Across seasons who are the top three batsman's with most number of run out?](#twelve)
-- [What are the total runs scored by V Kohli when the bowler was JJ Burmah?](#thirteen)
-- [Across all seasons which player was dismissed the maximum number of times via caught and bowled](#fourteen)
-- [Which player has the highest hard-hitting ability?](#fifteen)
 
 
 ### 1. Can you tell me the Distribution of Vehicles based on Year of Registration with the help of a plot <a id='one'></a>
@@ -60,19 +55,3 @@
 - ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/b39c54fe-0490-4a40-8b23-9f16f6ecfc6d)
 
 
-### <a id='eleven'> In 2017 when sunrisers hyderabad clashed against Royal Challengers Bangalore which team player won player of the match?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/07be7458-98cf-4ec0-90bc-e7385ca3cc21)
-
-
-### <a id='twelve'> Across seasons who are the top three batsman's with most number of run out?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/2d3897db-549a-4866-811a-ef5495c4604c)
-
-### <a id='thirteen'> What are the total runs scored by V Kohli when the bowler was JJ Burmah?</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/ca32a382-882b-4aee-93dd-305d948d62e0)
-
-### <a id='fourteen'> Across all seasons which player was dismissed the maximum number of times via caught and bowled</a>
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/4023a770-ba0b-4845-9e28-75c14541fcf3)
-
-
-### <a id='fifteen'> Which player has the highest hard-hitting ability? </a> 
-- ![image](https://github.com/sathishvanga/IPL_Analysis_SQL/assets/92833519/78add728-a216-4fe8-a473-7469213e8773)
