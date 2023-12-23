@@ -20,16 +20,19 @@
 
 ### 2. <a id='two'>Create a plot based on the Variation of the price range by the vehicle type?</a>
 -![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/742862ed-0f8b-4c26-8a62-1b751ff7475d)
+The price range varies based on the vehicle type, with SUVs having the highest price range, coupes coming in at the second highest, and Kleinwagens having the lowest price range.
 
 
 
 ### 3. <a id='three'> Find out Total count of vehicles by type available on ebay for sale.As well as create a visualization for the client?</a>
 - ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/86bd52f2-e477-43c4-8260-1e9c2a3c8b51)
+The Limousine vehicle type has the highest count on eBay for sale, followed by Kleinwagen, and the lowest count is for "Andere" (Other) vehicle types. 
 
 ### 4. <a id='four'> Is there any relationship between dollar_price and kilometer? (Explain with appropriate analysis)?</a>
 - ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/098b9e12-4887-4856-84e8-bc3c79ef66a9)
 
-- ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/244ee4d2-60e1-4804-af1c-995316caefb5)
+- ![image](https://github.com/sathishvanga/Advanced-Data-Analysis/assets/92833519/fc9e1553-3b53-4e7d-8483-f0778c40fd69)
+
 - The relationship between price and kilometer is -0.4 i,e **Negative Weak Relationship**
 
 
