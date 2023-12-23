@@ -1,23 +1,5 @@
 # Advanced-Data-Analysis
-## Aim
-### Project Overview:
-Clearly articulate the purpose and scope of your project. Explain why you chose to analyze used cars in Germany and what insights or value the project aims to provide.
 
-### Key Features: 
-Highlight the key features in the dataset that are crucial for the analysis. This could include information about brands, models, price, etc.
-
- 
-### Data Cleaning and Preprocessing: 
-Discuss how you handled missing data, outliers, and any preprocessing steps applied to the dataset to ensure its quality.
-
-### Visualizations: 
-Showcase some of the key visualizations you created during the analysis. Embed images or links to plots and graphs that effectively communicate your findings.
-
-### Results and Findings: 
-Summarize the major findings from your analysis. Highlight any interesting trends, correlations, or insights you discovered.
-
-### Contributing Guidelines: 
-If you want others to contribute to your project, outline clear guidelines on how they can do so. This includes information on submitting issues, proposing new features, and making pull requests.
 # Questions
 1. [Can you tell me the Distribution of Vehicles based on Year of Registration with the help of a plot ?](#one)
 2. [Create a plot based on the Variation of the price range by the vehicle type?](#two)
